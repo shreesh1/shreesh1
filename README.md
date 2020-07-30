@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+<pre>
+<code class="language-bash">$ whoami
+Hello.  
+I am a 3rd year engineering student currntly working in the field of cyber security 🧮</a>.  
+I love solving ctf challenges <a href="https://ctftime.org/user/59915"> 🧩 ,bug bounty 👾 learning towards cybersecurity.</a>
+Contact me 📧 : <a href="http://thepwning.ninja">thepwning.ninja</a>. </code>
+</pre>
+</html>
