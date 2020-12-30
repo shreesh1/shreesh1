@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 Hello.  
 I am a 3rd year engineering student currntly working in the field of cyber security 🧮</a>.  
 I love solving ctf challenges <a href="https://ctftime.org/user/59915">PWNNINJA</a> 🧩 ,bug bounty 👾 learning towards cybersecurity.
-Contact me 📧 : <a href="http://thepwning.ninja">thepwning.ninja</a>. </code>
+Contact me 📧 : <a href="http://thepwning.ninja">shreeshroliwal.me</a>. </code>
 </pre>
 </html>
