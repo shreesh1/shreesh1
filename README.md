@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <code class="language-bash">$ whoami
 Hello.  
 I am a 3rd year engineering student currntly working in the field of cyber security 🧮</a>.  
-I love solving ctf challenges mostly rev<a href="https://ctftime.org/user/59915">karma</a> 🧩 ,malware analysis👾 learning towards cybersecurity.
+I love solving ctf challenges mostly rev <a href="https://ctftime.org/user/59915">karma</a> 🧩 ,malware analysis👾
 Contact me 📧 : <a href="http://thepwning.ninja">shreeshroliwal.me</a>. </code>
 </pre>
 </html>
